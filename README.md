@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science graduate from Kafrelsheikh University (GPA: 3.2/4).
+🎓 Computer Science graduate from Kafrelsheikh University .
 
 💻 Full Stack Developer with strong hands-on experience in **.NET Core**, **Entity Framework**, **SQL Server**, and **React**.
 
@@ -46,8 +46,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔹 Tools & Environments
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
