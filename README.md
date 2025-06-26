@@ -13,15 +13,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science graduate from Kafrelsheikh University .
+🎓 Holding a Bachelor's degree in Computer Science from Kafrelsheikh University (Class of 2025).
 
-💻 Full Stack Developer with strong hands-on experience in **.NET Core**, **Entity Framework**, **SQL Server**, and **React**.
+💻 Aspiring Full Stack .NET Developer with practical experience in designing and developing modern web applications using **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, and **React**.
 
-🚀 Developed and deployed scalable web applications, including an online quiz platform and a hospital management system, with a focus on performance, security, and usability.
+🚀 Skilled in building secure, scalable, and maintainable software solutions with clean architecture principles and best practices.
 
-📚 Passionate about continuous learning and currently expanding knowledge in **Cloud Development**, **Microservices**, and **Software Architecture** to build modern, distributed systems.
+📚 Committed to continuous learning, currently deepening expertise in **Cloud Computing**, **Microservices**, and **Modern Software Architecture** to craft impactful digital experiences.
 
 ---
+
+
 
 ## 🛠 Tech Stack
 
