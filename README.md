@@ -75,12 +75,12 @@
 ## 📄 Resume/CV
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://drive.google.com/file/d/1rX_3VfsXLsiyDTGpRiIrUFFnS_q5VIvp/view?usp=drive_link" alt="Download CV"/>
+  <a href="https://drive.google.com/file/d/1rX_3VfsXLsiyDTGpRiIrUFFnS_q5VIvp/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Download%20CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/>
   </a>
   <br>
   <small><i>📧 Contact me for the latest version of my resume</i></small>
-</div>
+</div>>
 
 ---
 
