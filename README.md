@@ -59,7 +59,7 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/aymanyassien/" target="_blank">
+<a href="https://www.linkedin.com/in/fawzyshaker/" target="_blank">
   <img src="https://img.shields.io/badge/-Ayman%20Yassien-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://aymanyassien.github.io/Personal-Website" target="_blank">
