@@ -90,7 +90,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-Fawzy%20Shaker-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzyshaker/)
 [![GitHub](https://img.shields.io/badge/-GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawziielfaramawii)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawziielfaramawy12@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fawziielfaramawy12@gmail.com)
 
 </div>
 
