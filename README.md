@@ -1,4 +1,3 @@
-
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at Kafrelsheikh University (GPA: 3.2/4) expected to graduate in 2025.
+🎓 Computer Science graduate from Kafrelsheikh University (GPA: 3.2/4).
 
-💻 Full Stack Developer with experience in **.NET Core**, **Entity Framework**, **SQL Server**, and **React**.
+💻 Full Stack Developer with strong hands-on experience in **.NET Core**, **Entity Framework**, **SQL Server**, and **React**.
 
-🚀 Built scalable web apps like an online quiz system and a hospital management platform.
+🚀 Developed and deployed scalable web applications, including an online quiz platform and a hospital management system, with a focus on performance, security, and usability.
 
-📚 Currently exploring **Cloud Development**, **Microservices**, and **Software Architecture**.
+📚 Passionate about continuous learning and currently expanding knowledge in **Cloud Development**, **Microservices**, and **Software Architecture** to build modern, distributed systems.
 
 ---
 
