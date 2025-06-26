@@ -21,6 +21,8 @@
 
 📚 Committed to continuous learning, currently deepening expertise in **Cloud Computing**, **Microservices**, and **Modern Software Architecture** to craft impactful digital experiences.
 
+🌟 Dedicated to team collaboration, agile development, and delivering high-quality software that solves real-world problems.
+
 ---
 
 
