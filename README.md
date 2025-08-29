@@ -74,7 +74,7 @@
 ## 📄 Resume/CV
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1bEn93PW6ayHyXLpj4Nu2BlPxGKm893PX/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1BfAEtjZsQzvQuty8KTJVKRE06zL7JyHk/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-Download%20CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/>
   </a>
   <br>
