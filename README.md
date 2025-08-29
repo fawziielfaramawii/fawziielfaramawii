@@ -79,7 +79,7 @@
   </a>
   <br>
   <small><i>📧 Contact me for the latest version of my resume</i></small>
-</div>>
+</div>
 
 ---
 
