@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20Developer;Graduated%20Computer%20Science%20Engineer;Passionate%20about%20Clean%20Code%20%26%20Tech%20Learning;Let's%20Build%20Great%20Things%20Together!&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&size=22">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=.Net+Web+Developer)](https://git.io/typing-svg)">
   </a>
 </p>
 
