@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=.Net+Web+Developer)](https://git.io/typing-svg)">
+    <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=.Net+Web+Developer)](https://git.io/typing-svg)">
   </a>
 </p>
 
