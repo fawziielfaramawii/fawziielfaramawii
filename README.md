@@ -96,37 +96,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fawziielfaramawii&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawziielfaramawii&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawziielfaramawii&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="50%" />
-  
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-```mermaid
-graph LR
-    A[🎯 Current Goals] --> B[☁️ Cloud Computing]
-    A --> C[🏗️ Microservices]
-    A --> D[📱 Modern Architecture]
-    A --> E[🚀 DevOps Practices]
-```
-
-</div>
-
----
-
 <div align="center">
   
 **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
